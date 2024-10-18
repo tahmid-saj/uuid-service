@@ -9,10 +9,31 @@ Simple UUID generator service developed with Go / Gin.
 
 The directory structure is as follows:
 
+## Directory Structure with Descriptions
+
+- **models/**  
+  - Data models used for UUID service.
+
+- **routes/**  
+  - Contains route definitions for API endpoints.
+
+- **uuid/**  
+  - Logic for generating and managing UUIDs.
+
+- **main.go**  
+  - Entry point of the Go application, setting up the Gin server and routes.
+
+- **go.mod**  
+  - Defines the module and dependencies for Go.
+
+- **go.sum**  
+  - Checksums for dependencies.
+
+- **README.md**  
+  - Overview and instructions for the UUID service.
+
 <br/>
 <br/>
-
-
 
 ## Overview
 

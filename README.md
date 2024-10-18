@@ -9,8 +9,6 @@ Simple UUID generator service developed with Go / Gin.
 
 The directory structure is as follows:
 
-## Directory Structure with Descriptions
-
 - **models/**  
   - Data models used for UUID service.
 
